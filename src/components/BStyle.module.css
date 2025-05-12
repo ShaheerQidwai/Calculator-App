@@ -1,0 +1,17 @@
+.btnContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+}
+
+.btn {
+  width: 50px;
+  border-radius: 4px;
+  margin: 3px;
+  height: 40px;
+}
+
+.btn:hover {
+  background-color: hwb(0 50% 49%);
+}
